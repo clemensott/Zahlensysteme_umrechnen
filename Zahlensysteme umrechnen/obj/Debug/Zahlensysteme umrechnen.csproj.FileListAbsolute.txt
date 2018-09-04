@@ -1,0 +1,9 @@
+c:\users\clemens\documents\visual studio 2012\Projects\Zahlensysteme umrechnen\Zahlensysteme umrechnen\bin\Debug\Zahlensysteme umrechnen.exe.config
+c:\users\clemens\documents\visual studio 2012\Projects\Zahlensysteme umrechnen\Zahlensysteme umrechnen\bin\Debug\Zahlensysteme umrechnen.exe
+c:\users\clemens\documents\visual studio 2012\Projects\Zahlensysteme umrechnen\Zahlensysteme umrechnen\bin\Debug\Zahlensysteme umrechnen.pdb
+c:\users\clemens\documents\visual studio 2012\Projects\Zahlensysteme umrechnen\Zahlensysteme umrechnen\obj\Debug\Zahlensysteme umrechnen.csprojResolveAssemblyReference.cache
+c:\users\clemens\documents\visual studio 2012\Projects\Zahlensysteme umrechnen\Zahlensysteme umrechnen\obj\Debug\Zahlensysteme_umrechnen.Form1.resources
+c:\users\clemens\documents\visual studio 2012\Projects\Zahlensysteme umrechnen\Zahlensysteme umrechnen\obj\Debug\Zahlensysteme_umrechnen.Properties.Resources.resources
+c:\users\clemens\documents\visual studio 2012\Projects\Zahlensysteme umrechnen\Zahlensysteme umrechnen\obj\Debug\Zahlensysteme umrechnen.csproj.GenerateResource.Cache
+c:\users\clemens\documents\visual studio 2012\Projects\Zahlensysteme umrechnen\Zahlensysteme umrechnen\obj\Debug\Zahlensysteme umrechnen.exe
+c:\users\clemens\documents\visual studio 2012\Projects\Zahlensysteme umrechnen\Zahlensysteme umrechnen\obj\Debug\Zahlensysteme umrechnen.pdb
